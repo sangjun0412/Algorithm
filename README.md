@@ -40,7 +40,7 @@ BOJ 1300 K번째 수
 ## 💡 프로그래머스
 |인덱스|날짜|                                    문제                                     |난이도|   풀이   |
 |:---:|:---:|:-------------------------------------------------------------------------:|:---:|:------:|
-|1|221221| [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) |L3| [풀이]() |
+|1|221221| [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) |L3| [풀이](https://github.com/DGU-ICE-Crew/Algorithm/blob/main/BOJ/BOJ_1300.md) |
 
 ## 💡 SWEA
 
